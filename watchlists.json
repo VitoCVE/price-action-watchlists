@@ -1,0 +1,49 @@
+{
+  "Winners": [
+    "AAPL",
+    "AMZN",
+    "CRWD",
+    "AMD",
+    "MSFT",
+    "PLTR",
+    "SPOT"
+  ],
+  "Losers": [
+    "NVDA",
+    "MU",
+    "GOOGL",
+    "META",
+    "ORCL",
+    "AVGO",
+    "NFLX",
+    "TSLA"
+  ],
+  "Momentum": [
+    "LLY",
+    "ANET",
+    "NET",
+    "APP"
+  ],
+  "RIP": [
+    "WDC",
+    "SNOW",
+    "CRM",
+    "PANW",
+    "QCOM",
+    "DELL",
+    "STX",
+    "MRVL",
+    "NOW",
+    "SKHY",
+    "SPCX",
+    "SNDK",
+    "BE"
+  ],
+  "ETF": [
+    "SPY",
+    "QQQ",
+    "IWM",
+    "DRAM",
+    "SMH"
+  ]
+}
