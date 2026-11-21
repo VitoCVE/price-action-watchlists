@@ -5,10 +5,10 @@
     "CRWD",
     "AMD",
     "MSFT",
-    "PLTR",
     "SPOT"
   ],
   "Losers": [
+    "PLTR",
     "NVDA",
     "MU",
     "GOOGL",
@@ -19,9 +19,7 @@
     "TSLA"
   ],
   "Momentum": [
-    "LLY",
-    "ANET",
-    "NET",
-    "APP"
+    "ANT",
+    "LLY"
   ]
 }
